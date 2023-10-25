@@ -28,6 +28,6 @@ const getData = () => {
 
 getData();
 
-setInterval(getData, 800);
+setInterval(getData, 701.75);
 
 container.addEventListener('click', getData);
